@@ -77,7 +77,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-           In my position of Webmaster for the WVHSSCA, I am resposible for the development and maintenance of the association's website. 
+           In my position of Webmaster for the WVHSSCA, I am responsible for the development and maintenance of the association's website. 
            This site receives traffic from high soccer coaches and players across the state of West Virginia. 
            I work closely with my professor, who is a WVHSSCA officer, to implement the wants and needs of the association.
     
@@ -89,7 +89,7 @@ content:
          
         description: | # this will include new lines to allow paragraphs
           As a cadet in the West Virginia Army National Guard, I attend drill weekends and other training with my unit in order to gain valuable knowledge and experience.
-          After I graduate from WVU I will commision as an officer in the National Guard, and this experience will be invaluable when I am leading those much older than myself.
+          After I graduate from WVU I will commission as an officer in the National Guard, and this experience will be invaluable when I am leading those much older than myself.
 
       - layout: left
         title: Elkins Randolph County YMCA
