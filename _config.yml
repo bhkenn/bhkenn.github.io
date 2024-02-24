@@ -108,14 +108,14 @@ content:
          
         description: | # this will include new lines to allow paragraphs
           In my position as a host for the Vintage Restaurant and Wine Bar I completed many different tasks to ensure smooth operation of the restaurant. 
-          These tasks included fufilling take-out orders, seating customers, setting tables, cleaning facilities, and anything else needed by the wait staff and management.
+          These tasks included fulfilling take-out orders, seating customers, setting tables, cleaning facilities, and anything else needed by the wait staff and management.
   - title: Education
     layout: list
     content:
       - layout: left
         title: West Virginia University
         sub_title: BSBA in Management Information Systems, minors in Business Cybersecurity and Military Science
-        caption: 2022-2026
+        caption: 2022 - 2026
         quote: >
           
         description: | # this will include new lines to allow paragraphs
