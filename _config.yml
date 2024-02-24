@@ -81,33 +81,33 @@ content:
            This site receives traffic from high soccer coaches and players across the state of West Virginia. 
            I work closely with my professor, who is a WVHSSCA officer, to implement the wants and needs of the association.
     
-       - layout: left
+      - layout: left
         title: West Virginia Army National Guard
         sub_title: Cadet
         caption: June 2023 - present
         quote: >
-          
+         
         description: | # this will include new lines to allow paragraphs
-           As a cadet in the West Virginia Army National Guard, I attend drill weekends and other training with my unit in order to gain valuable knowledge and experience.
-           After I graduate from WVU I will commision as an officer in the National Guard, and this experience will be invaluable when I am leading those much older than myself.
+          As a cadet in the West Virginia Army National Guard, I attend drill weekends and other training with my unit in order to gain valuable knowledge and experience.
+          After I graduate from WVU I will commision as an officer in the National Guard, and this experience will be invaluable when I am leading those much older than myself.
 
-       - layout: left
+      - layout: left
         title: Elkins Randolph County YMCA
         sub_title: Lifeguard
         caption: September 2021 - August 2022
         quote: >
-          
+         
         description: | # this will include new lines to allow paragraphs
 
 
-       - layout: left
+      - layout: left
         title: Vintage Restaurant and Wine Bar
         sub_title: Host
         caption: July 2019 - April 2021
         quote: >
-          
+         
         description: | # this will include new lines to allow paragraphs
-           
+          
   - title: Education
     layout: list
     content:
