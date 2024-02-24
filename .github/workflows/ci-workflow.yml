@@ -28,6 +28,8 @@ jobs:
       run: |
         bundle config path vendor/bundle
         bundle install --jobs 4 --retry 3
+    - name: git config command
+      run: git config --global --add safe.directory /github/workspace
     - name: Built test sites
       run: |
         bundle exec jekyll build --config _test/_config-version-1.yml --destination ./_test-site-1
