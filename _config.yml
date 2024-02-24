@@ -20,7 +20,7 @@ darkmode: true
 
 # Social links
 github_username:  bhkenn
-linkedin_username: braxton-kenney-94877724b
+linkedin_username: bhkenn
 
 # Additional icon links
 #additional_links:
@@ -98,7 +98,7 @@ content:
         quote: >
          
         description: | # this will include new lines to allow paragraphs
-
+          As a lifeguard at the Randolph County YMCA I was responsible for the safety of patrons using the pool facilities, as well as maintaining said facilities to ensure satisfaction with the patrons.
 
       - layout: left
         title: Vintage Restaurant and Wine Bar
@@ -107,7 +107,8 @@ content:
         quote: >
          
         description: | # this will include new lines to allow paragraphs
-          
+          In my position as a host for the Vintage Restaurant and Wine Bar I completed many different tasks to ensure smooth operation of the restaurant. 
+          These tasks included fufilling take-out orders, seating customers, setting tables, cleaning facilities, and anything else needed by the wait staff and management.
   - title: Education
     layout: list
     content:
