@@ -119,8 +119,8 @@ content:
         title: WVU Army Reserve Officer Training Corps
         sub_title: Battalion Command Sergeant Major
         caption: August 2022 - present
+        sub_title:  
         link: https://www.facebook.com/WVUArmyROTC/
-        icon: fab fa-facebook
         quote: >
           
         description: | # this will include new lines to allow paragraphs
