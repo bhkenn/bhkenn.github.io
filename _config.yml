@@ -41,7 +41,7 @@ linkedin_username: bhkenn
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- My name is Braxton Kenney, and I am currently a sophomore at West Virginia University. I am seeking a degree in Management Information Systems with a minor in Business Cybersecurity. 
+ My name is Braxton Kenney, and I am currently a junior at West Virginia University. I am seeking a degree in Management Information Systems with a minor in Business Cybersecurity and Military Science. 
  I aspire to have a career in technology after graduation from WVU. 
  I am currently a member of WVU Army ROTC, and the West Virginia Army National Guard. 
  In my free time I love to tinker with technology, play games, and ride my motorcycle.
@@ -80,6 +80,7 @@ content:
            In my position of Webmaster for the WVHSSCA, I am responsible for the development and maintenance of the association's website. 
            This site receives traffic from high soccer coaches and players across the state of West Virginia. 
            I work closely with my professor, who is a WVHSSCA officer, to implement the wants and needs of the association.
+           I am currently in the process of a complete redesign of the website to allow easier communication between coaches, as well as a more rebust system for paying dues.
     
       - layout: left
         title: West Virginia Army National Guard
@@ -89,6 +90,7 @@ content:
          
         description: | # this will include new lines to allow paragraphs
           As a cadet in the West Virginia Army National Guard, I attend drill weekends and other training with my unit in order to gain valuable knowledge and experience.
+          During these trainings I complete tasks for the unit officers and observe functions to better prepare myself for when I am an officer.
           After I graduate from WVU I will commission as an officer in the National Guard, and this experience will be invaluable when I am leading those much older than myself.
 
       - layout: left
@@ -109,6 +111,36 @@ content:
         description: | # this will include new lines to allow paragraphs
           In my position as a host for the Vintage Restaurant and Wine Bar I completed many different tasks to ensure smooth operation of the restaurant. 
           These tasks included fulfilling take-out orders, seating customers, setting tables, cleaning facilities, and anything else needed by the wait staff and management.
+
+  - title: Organizations
+    layout: list
+    content:
+      - layout: left
+        title: WVU Army Reserve Officer Training Corps
+        sub_title: Battalion Command Sergeant Major
+        caption: August 2022 - present
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+           I have been a member of Army ROTC at WVU for two years now, and I have already learned extremely valuable skills. 
+           Through a military science class, morning physical fitness, weekly leadership labs, and semesterly field training exercises, I have gotten a huge amount of leadership experience.
+           For the fall 2024 semester I have been selected as the command sergeant major for the battalion.
+           In this position I will be working closely with the battalion commander, and will be responsible with supervision of all battalion leadership and cadets.
+           I will also be responsible for assisting with planning battalion events, including taking charge on all battalion ruck march planning and execution.
+
+    layout: list
+    content:
+      - layout: left
+        title: Management Information Systems Association
+        sub_title: Member
+        caption: August 2022 - present
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+           MISA allows me to attend workshops, meetings, employer panels, and other events that will help in my current and future employement searches.
+           I recently attented a Linux workshop put on by the organization that introduced beginners to the use of Linux including install, terminal commands, and general use cases for the OS.
+    
+          
   - title: Education
     layout: list
     content:
