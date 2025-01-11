@@ -47,8 +47,8 @@ about_content: | # this will include new lines to allow paragraphs
  In my free time I love to tinker with my homelab, play games, and ride my motorcycle.
 
 content:
-  - title: Certifications # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Certifications
+    layout: list
     content:
       - layout: left
         title: Network+ N10-008
@@ -61,22 +61,22 @@ content:
         caption: September 2023
 
       - layout: left
-        title: Office Specialist: Associate Office 2019
+        title: Office Specialist Associate Office 2019
         sub_title: Microsoft
         caption: December 2022
 
       - layout: left
-        title: Office Specialist: Word Office 2019
+        title: Office Specialist Word Office 2019
         sub_title: Microsoft
         caption: December 2022
 
       - layout: left
-        title: Office Specialist: Excel Office 2019
+        title: Office Specialist Excel Office 2019
         sub_title: Microsoft
         caption: November 2022
 
       - layout: left
-        title: Office Specialist: Powerpoint Office 2019
+        title: Office Specialist Powerpoint Office 2019
         sub_title: Microsoft
         caption: October 2022
 
