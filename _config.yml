@@ -44,29 +44,42 @@ about_content: | # this will include new lines to allow paragraphs
  My name is Braxton Kenney, and I am currently a junior at West Virginia University. I am seeking a degree in Management Information Systems with a minor in Business Cybersecurity and Military Science. 
  I aspire to have a career in technology after graduation from WVU. 
  I am currently a member of WVU Army ROTC, and the West Virginia Army National Guard. 
- In my free time I love to tinker with technology, play games, and ride my motorcycle.
+ In my free time I love to tinker with my homelab, play games, and ride my motorcycle.
 
 content:
-#  - title: Projects # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: left
-#        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-#                      # other value (or no value) means no border will be displayed
-#        title: Project name
-#        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#        link_text: Link Text
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#        quote: >
-#          Short overview of the project (optional)
-#        description: | # this will include new lines to allow paragraphs
-#          Description about the work on/with the project
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: center
+        title: Network+ N10-008
+        sub_title: CompTIA
+        caption: December 2024
+
+      - layout: center
+        title: Secret Security Clearance
+        sub_title: United States Department of the Army
+        caption: September 2023
+
+      - layout: center
+        title: Office Specialist: Associate (Office 2019)
+        sub_title: Microsoft
+        caption: December 2022
+
+      - layout: center
+        title: Office Specialist: Word (Office 2019)
+        sub_title: Microsoft
+        caption: December 2022
+
+      - layout: center
+        title: Office Specialist: Excel (Office 2019)
+        sub_title: Microsoft
+        caption: November 2022
+
+      - layout: center
+        title: Office Specialist: Powerpoint (Office 2019)
+        sub_title: Microsoft
+        caption: October 2022
+
   - title: Experience
     layout: list
     content:
