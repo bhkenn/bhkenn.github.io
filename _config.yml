@@ -50,32 +50,32 @@ content:
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: left
         title: Network+ N10-008
         sub_title: CompTIA
         caption: December 2024
 
-      - layout: center
+      - layout: left
         title: Secret Security Clearance
         sub_title: United States Department of the Army
         caption: September 2023
 
-      - layout: center
+      - layout: left
         title: Office Specialist: Associate (Office 2019)
         sub_title: Microsoft
         caption: December 2022
 
-      - layout: center
+      - layout: left
         title: Office Specialist: Word (Office 2019)
         sub_title: Microsoft
         caption: December 2022
 
-      - layout: center
+      - layout: left
         title: Office Specialist: Excel (Office 2019)
         sub_title: Microsoft
         caption: November 2022
 
-      - layout: center
+      - layout: left
         title: Office Specialist: Powerpoint (Office 2019)
         sub_title: Microsoft
         caption: October 2022
