@@ -41,10 +41,10 @@ linkedin_username: bhkenn
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- My name is Braxton Kenney, and I am currently a junior at West Virginia University. I am seeking a degree in Management Information Systems with a minor in Business Cybersecurity and Military Science. 
- I aspire to have a career in technology after graduation from WVU. 
+ I am currently a senior at West Virginia University, seeking a degree in Management Information Systems with minors in Business Cybersecurity and Military Science. 
+ I aspire to have a career in software development after my graduation from WVU in Spring 2026. 
  I am currently a member of WVU Army ROTC, and the West Virginia Army National Guard. 
- In my free time I love to tinker with my homelab, play games, and ride my motorcycle.
+ In my free time I love to tinker with technology, play games, and ride my motorcycle.
 
 content:
   - title: Certifications
@@ -84,27 +84,37 @@ content:
     layout: list
     content:
       - layout: left
-        title: West Virginia High School Soccer Coaches Association
-        sub_title: Webmaster
-        caption: February 2024 - present
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-           In my position of Webmaster for the WVHSSCA, I am responsible for the development and maintenance of the association's website. 
-           This site receives traffic from high soccer coaches and players across the state of West Virginia. 
-           I work closely with my professor, who is a WVHSSCA officer, to implement the wants and needs of the association.
-           I am currently in the process of a complete redesign of the website to allow easier communication between coaches, as well as a more rebust system for paying dues.
-    
-      - layout: left
         title: West Virginia Army National Guard
         sub_title: Cadet
         caption: June 2023 - present
         quote: >
          
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           As a cadet in the West Virginia Army National Guard, I attend drill weekends and other training with my unit in order to gain valuable knowledge and experience.
           During these trainings I complete tasks for the unit officers and observe functions to better prepare myself for when I am an officer.
           After I graduate from WVU I will commission as an officer in the National Guard, and this experience will be invaluable when I am leading those much older than myself.
+
+      - layout: left
+        title: Immersive Cyber Education
+        sub_title: Internship
+        caption: July 2025 - August 2025
+        quote: >
+          
+        description: |
+           This is a program hosted by the AF Institute of Technology faculty, and covers a wide range of topics including networking, industrial control systems, digital forensics, cryptography, cyber attack & defense, firmware analysis, and software reverse engineering. 
+           The program ended with a week long "Hackathon," which had teams set up a network with multiple hosts and services, and then compete with each other to keep these services up, capture other services on the public network, complete challenges, and locate flags.
+           
+      - layout: left
+        title: West Virginia High School Soccer Coaches Association
+        sub_title: Webmaster
+        caption: February 2024 - February 2025
+        quote: >
+          
+        description: | 
+           In my position of Webmaster for the WVHSSCA, I was responsible for the development and maintenance of the association's website. 
+           This site receives traffic from high soccer coaches and players across the state of West Virginia. 
+           I worked closely with my professor, who is a WVHSSCA officer, to implement the wants and needs of the association.
+           Although it was never deployed due to the association focusing on other issues, a finished site was delivered that met all requirements.
 
       - layout: left
         title: Elkins Randolph County YMCA
@@ -112,7 +122,7 @@ content:
         caption: September 2021 - August 2022
         quote: >
          
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           As a lifeguard at the Randolph County YMCA I was responsible for the safety of patrons using the pool facilities, as well as maintaining said facilities to ensure satisfaction with the patrons.
 
       - layout: left
@@ -121,7 +131,7 @@ content:
         caption: July 2019 - April 2021
         quote: >
          
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           In my position as a host for the Vintage Restaurant and Wine Bar I completed many different tasks to ensure smooth operation of the restaurant. 
           These tasks included fulfilling take-out orders, seating customers, setting tables, cleaning facilities, and anything else needed by the wait staff and management.
 
@@ -130,18 +140,20 @@ content:
     content:
       - layout: left
         title: WVU Army Reserve Officer Training Corps
-        sub_title: Battalion Command Sergeant Major
+        sub_title: Company Commander
         caption: August 2022 - present
         sub_title:  
         link: https://www.facebook.com/WVUArmyROTC/
         quote: >
           
-        description: | # this will include new lines to allow paragraphs
-           I have been a member of Army ROTC at WVU for two years now, and I have already learned extremely valuable skills. 
-           Through a military science class, morning physical fitness, weekly leadership labs, and semesterly field training exercises, I have gotten a huge amount of leadership experience.
-           For the fall 2024 semester I have been selected as the command sergeant major for the battalion.
-           In this position I will be working closely with the battalion commander, and will be responsible with supervision of all battalion leadership and cadets.
-           I will also be responsible for assisting with planning battalion events, including taking charge on all battalion ruck march planning and execution.
+        description: | 
+           I have been a member of Army ROTC at WVU for 3 years now, and I have learned extremely valuable skills. 
+           Through a military science class, morning physical fitness, weekly leadership labs, and semesterly field training exercises, I have gained a huge amount of leadership experience. 
+           For the fall 2024 semester I was selected as the command sergeant major for the battalion. 
+           In this position I worked closely with the battalion commander, and was responsible for the supervision of all battalion leadership and cadets (~150 people). 
+           I also was responsible for assisting with planning battalion events, including taking charge on all battalion ruck march planning and execution.
+           For the Fall 2025 semester, I am serving as Alpha Company Commander. This means I am leading the development of the newest class of freshman (~60 people) into future Army Officers. 
+           I am responsible for planning all leadership labs and special events for the company, as well as coordinating personnel at all levels.
 
       - layout: left
         title: Management Information Systems Association
@@ -151,7 +163,7 @@ content:
         link: https://misassociation.orgs.wvu.edu/
         quote: >
           
-        description: | # this will include new lines to allow paragraphs
+        description: | 
            MISA allows me to attend workshops, meetings, employer panels, and other events that will help in my current and future employement searches.
            I recently attented a Linux workshop put on by the organization that introduced beginners to the use of Linux including install, terminal commands, and general use cases for the OS.
     
@@ -165,7 +177,7 @@ content:
         caption: 2022 - 2026
         quote: >
           
-        description: | # this will include new lines to allow paragraphs
+        description: |
           While I am a student at West Virginia University I am focused on doing well in classes, but also being involved and teaching myself new skills through experimentation. 
           I am a member of Army ROTC, Pershing Rifles, and the Management Information Systems Association. 
 #  - title: A Little More About Me
