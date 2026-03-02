@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Braxton Kenney
-title: Honors MIS Student at West Virginia University
-email: contact@bhkenney.dev
+title: Honors MIS Student at West Virginia University | Army Officer Candidate
+email: braxtonhkenney@gmail.com
 # email_title: Email (Email title override)
 
 # phone_title: Phone (Phone title override)
@@ -50,6 +50,11 @@ content:
   - title: Certifications
     layout: list
     content:
+      - layout: top-middle
+        title: AWS Certified Cloud Practitioner
+        sub_title: Amazon Web Services
+        caption: March 2026
+
       - layout: top-middle
         title: Network+ N10-008
         sub_title: CompTIA
@@ -140,7 +145,7 @@ content:
     content:
       - layout: left
         title: WVU Army Reserve Officer Training Corps
-        sub_title: Company Commander
+        sub_title: Platoon Training Officer
         caption: August 2022 - present
         sub_title:  
         link: https://www.facebook.com/WVUArmyROTC/
@@ -165,7 +170,6 @@ content:
           
         description: | 
            MISA allows me to attend workshops, meetings, employer panels, and other events that will help in my current and future employement searches.
-           I recently attented a Linux workshop put on by the organization that introduced beginners to the use of Linux including install, terminal commands, and general use cases for the OS.
     
           
   - title: Education
