@@ -41,10 +41,12 @@ linkedin_username: bhkenn
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- I am currently a senior at West Virginia University, seeking a degree in Management Information Systems with minors in Business Cybersecurity and Military Science. 
- I aspire to have a career in software development after my graduation from WVU in Spring 2026. 
- I am currently a member of WVU Army ROTC, and the West Virginia Army National Guard. 
- In my free time I love to tinker with technology, play games, and ride my motorcycle.
+ I'm Braxton Kenney, an aspiring software engineer and May 2026 graduate of West Virginia University. 
+ My experience spans full-stack development, cybersecurity, and applied AI, most recently as a Software Engineering Intern at Noblis. 
+ I've also worked in cyber attack and defense through an AF Institute of Technology program, and previously led a full website redesign as Webmaster for the West Virginia High School Soccer Coaches Association.
+ 
+ Alongside my technical career, I serve in the West Virginia Army National Guard as an 
+ Aeromedical Evacuations Officer. I will soon be attending the Army Medical Basic Officer Leadership Course, and following that Army Flight School.
 
 content:
   - title: Certifications
@@ -90,14 +92,26 @@ content:
     content:
       - layout: left
         title: West Virginia Army National Guard
-        sub_title: Cadet
+        sub_title: Aeromedical Evacuations Officer
         caption: June 2023 - present
         quote: >
          
         description: | 
-          As a cadet in the West Virginia Army National Guard, I attend drill weekends and other training with my unit in order to gain valuable knowledge and experience.
-          During these trainings I complete tasks for the unit officers and observe functions to better prepare myself for when I am an officer.
-          After I graduate from WVU I will commission as an officer in the National Guard, and this experience will be invaluable when I am leading those much older than myself.
+          As a second lieutenant in the Army National Guard, I am awaiting attendance at the Basic Officer Leader Course while actively contributing to my unit in the meantime. 
+          In this role, I teach classes and assist with personnel management within the unit. 
+          I am also enrolled in Basic Aviator Training School (BATS), where I receive coursework and preparatory training designed to ready me for Army flight school.
+
+      - layout: left
+        title: Noblis
+        sub_title: Software Engineering Intern
+        caption: June 2026 - August 2026
+        quote: >
+          
+        description: |
+           As a Software Engineering Intern at Noblis, I worked on a team responsible for a monitoring software and hardware solution, focusing specifically on the web application component of the solution, an Angular front end backed by a Java REST API. 
+           Working alongside another intern, I helped design and build a new feature for the app: a RAG (Retrieval-Augmented Generation) system that allows users to upload documents and generate summaries of system faults based on the content provided. 
+           I contributed across the full stack, from the Angular front end and Java REST API (including JDBC integration and endpoint development) to prompt engineering, UI design, and testing with JUnit and Robot Framework. 
+           I collaborated with the team in daily stand-up meetings to help prioritize tasks and monitor progress on objectives.
 
       - layout: left
         title: Immersive Cyber Education
