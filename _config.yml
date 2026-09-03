@@ -153,51 +153,16 @@ content:
         description: | 
           In my position as a host for the Vintage Restaurant and Wine Bar I completed many different tasks to ensure smooth operation of the restaurant. 
           These tasks included fulfilling take-out orders, seating customers, setting tables, cleaning facilities, and anything else needed by the wait staff and management.
-
-  - title: Organizations
-    layout: list
-    content:
-      - layout: left
-        title: WVU Army Reserve Officer Training Corps
-        sub_title: Platoon Training Officer
-        caption: August 2022 - present
-        sub_title:  
-        link: https://www.facebook.com/WVUArmyROTC/
-        quote: >
-          
-        description: | 
-           I have been a member of Army ROTC at WVU for 3 years now, and I have learned extremely valuable skills. 
-           Through a military science class, morning physical fitness, weekly leadership labs, and semesterly field training exercises, I have gained a huge amount of leadership experience. 
-           For the fall 2024 semester I was selected as the command sergeant major for the battalion. 
-           In this position I worked closely with the battalion commander, and was responsible for the supervision of all battalion leadership and cadets (~150 people). 
-           I also was responsible for assisting with planning battalion events, including taking charge on all battalion ruck march planning and execution.
-           For the Fall 2025 semester, I am serving as Alpha Company Commander. This means I am leading the development of the newest class of freshman (~60 people) into future Army Officers. 
-           I am responsible for planning all leadership labs and special events for the company, as well as coordinating personnel at all levels.
-
-      - layout: left
-        title: Management Information Systems Association
-        sub_title: Member
-        caption: August 2022 - present
-        sub_title:
-        link: https://misassociation.orgs.wvu.edu/
-        quote: >
-          
-        description: | 
-           MISA allows me to attend workshops, meetings, employer panels, and other events that will help in my current and future employement searches.
     
-          
   - title: Education
     layout: list
     content:
-      - layout: left
+      - layout: list
+    content:
+      - layout: top-middle
         title: West Virginia University
-        sub_title: BSBA in Management Information Systems, minors in Business Cybersecurity and Military Science
-        caption: 2022 - 2026
-        quote: >
-          
-        description: |
-          While I am a student at West Virginia University I am focused on doing well in classes, but also being involved and teaching myself new skills through experimentation. 
-          I am a member of Army ROTC, Pershing Rifles, and the Management Information Systems Association. 
+        sub_title: B.S.B.A in Management Information Systems, Minors in Business Cybersecurity and Military Science
+        caption: May 2026
 #  - title: A Little More About Me
 #    layout: text
 #    content: | # this will include new lines to allow paragraphs
